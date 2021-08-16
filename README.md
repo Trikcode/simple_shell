@@ -278,6 +278,6 @@ $
 ```
 
 ## Authors :
-*Nobert Ayesiga
-*Divine Chisom Ukonu:
+* Nobert Ayesiga
+* Divine Chisom Ukonu:
 
